@@ -3,5 +3,6 @@ public class DisplayHelloWorld{
 		System.out.println("Hello World"); //Displays Hello World in a line
 		System.out.print("Hello "); //Displays Hello 
 		System.out.print("World\n");//Displays World in same line and breaks the line
+		System.out.print("Edited by sameer on Aiswant's project \n");//Displays World in same line and breaks the line
 	}
 }
